@@ -11,7 +11,7 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
-
+/*resposta 91*/
 /*----------------------questão 2°-------------------------------*/
 
 function verificaFibonacci(numero) {
